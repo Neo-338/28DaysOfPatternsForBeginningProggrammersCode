@@ -4,7 +4,7 @@
 
 #### Welcome
 
-Welcome to this exciting learning journey! This repository documents my adventure through the #28DaysOfPatternsForBeginningProggrammersCode challenge, focusing on Java 21. Inspired by David Bernstein's book *Patterns for Beginning Programmers*[^1], this project explores 28 programming patterns, with 5 exercises daily. I hope this resource will be valuable both for my learning and for other programming beginners.
+Welcome to this exciting learning journey! This repository documents my adventure through the #28DaysOfPatternsForBeginningProggrammersCode challenge, focusing on Java 21. Inspired by David Bernstein's book *[Patterns for Beginning Programmers](https://pressbooks.lib.jmu.edu/programmingpatterns/)*[^1], this project explores 28 programming patterns, with 5 exercises daily. I hope this resource will be valuable both for my learning and for other programming beginners.
 
 #### Objective and Context
 
@@ -13,36 +13,36 @@ As a self-taught backend programming learner with Java, this project integrates 
 <details>
 <summary><b>Topics Covered and Progress Tracking</b></summary>
 
-| Chapter | Topic                                                              | Progress |
-| ---- |--------------------------------------------------------------------| -------- |
-| 1 | [Chapter 1: Updating](src/main/java/Chapter001/README.md) | [🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜] 10% |
-| 2 | [Chapter 2: Exercises](src/main/java/Chapter002/README.md)         | [🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜] 80% |
-| 3 | [Chapter 3: Exercises](src/main/java/Chapter003/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 4 | [Chapter 4: Exercises](src/main/java/Chapter004/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 5 | [Chapter 5: Exercises](src/main/java/Chapter005/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 6 | [Chapter 6: Exercises](src/main/java/Chapter006/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 7 | [Chapter 7: Exercises](src/main/java/Chapter007/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 8 | [Chapter 8: Exercises](src/main/java/Chapter008/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 9 | [Chapter 9: Exercises](src/main/java/Chapter009/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 10 | [Chapter 10: Exercises](src/main/java/Chapter010/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 11 | [Chapter 11: Exercises](src/main/java/Chapter011/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 12 | [Chapter 12: Exercises](src/main/java/Chapter012/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 13 | [Chapter 13: Exercises](src/main/java/Chapter013/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 14 | [Chapter 14: Exercises](src/main/java/Chapter014/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 15 | [Chapter 15: Exercises](src/main/java/Chapter015/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 16 | [Chapter 16: Exercises](src/main/java/Chapter016/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 17 | [Chapter 17: Exercises](src/main/java/Chapter017/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 18 | [Chapter 18: Exercises](src/main/java/Chapter018/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 19 | [Chapter 19: Exercises](src/main/java/Chapter019/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 20 | [Chapter 20: Exercises](src/main/java/Chapter020/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 21 | [Chapter 21: Exercises](src/main/java/Chapter021/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 22 | [Chapter 22: Exercises](src/main/java/Chapter022/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 23 | [Chapter 23: Exercises](src/main/java/Chapter023/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 24 | [Chapter 24: Exercises](src/main/java/Chapter024/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 25 | [Chapter 25: Exercises](src/main/java/Chapter025/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 26 | [Chapter 26: Exercises](src/main/java/Chapter026/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 27 | [Chapter 27: Exercises](src/main/java/Chapter027/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 28 | [Chapter 28: Exercises](src/main/java/Chapter028/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| Chapter | Topic                                                                     | Progress         |
+| ---- |---------------------------------------------------------------------------|------------------|
+| 1 | [Chapter 1: Updating](src/main/java/Chapter001/README.md)                 | [🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜] 05% |
+| 2 | [Chapter 2: Swapping](src/main/java/Chapter002/README.md)                 | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 3 | [Chapter 3: Digit Manipulation](src/main/java/Chapter003/README.md)       | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 4 | [Chapter 4: Arithmetic on the Circle](src/main/java/Chapter004/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 5 | [Chapter 5: Truncation](src/main/java/Chapter005/README.md)               | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 6 | [Chapter 6: Indicators](src/main/java/Chapter006/README.md)               | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 7 | [Chapter 7: Indicator Methods](src/main/java/Chapter007/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 8 | [Chapter 8: Rounding](src/main/java/Chapter008/README.md)                 | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 9 | [Chapter 9: Starts and Completions](src/main/java/Chapter009/README.md)   | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 10 | [Chapter 10: Bit Flags](src/main/java/Chapter010/README.md)               | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 11 | [Chapter 11: DigitCounting](src/main/java/Chapter011/README.md)           | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 12 | [Chapter 12: Reprompting](src/main/java/Chapter012/README.md)             | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 13 | [Chapter 13: Accumulators](src/main/java/Chapter013/README.md)            | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 14 | [Chapter 14: Accumulator Arrays](src/main/java/Chapter014/README.md)      | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 15 | [Chapter 15: Lookup Arrays](src/main/java/Chapter015/README.md)           | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 16 | [Chapter 16: Interval Membership](src/main/java/Chapter016/README.md)     | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 17 | [Chapter 17: Conformal Arrays](src/main/java/Chapter017/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 18 | [Chapter 18: Segmented Arrays](src/main/java/Chapter018/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 19 | [Chapter 19: Subarrays](src/main/java/Chapter019/README.md)               | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 20 | [Chapter 20: Neighborhoods](src/main/java/Chapter020/README.md)           | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 21 | [Chapter 21: Centering](src/main/java/Chapter021/README.md)               | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 22 | [Chapter 22: Delimiting Strings](src/main/java/Chapter022/README.md)      | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 23 | [Chapter 23: Dynamic Formatting](src/main/java/Chapter023/README.md)      | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 24 | [Chapter 24: Pluralization](src/main/java/Chapter024/README.md)           | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 25 | [Chapter 25: Chained Mutators](src/main/java/Chapter025/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 26 | [Chapter 26: Outbound Parameters](src/main/java/Chapter026/README.md)     | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 27 | [Chapter 27: Missing Values](src/main/java/Chapter027/README.md)          | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
+| 28 | [Chapter 28: Checklists](src/main/java/Chapter028/README.md)               | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0%  |
 
 </details>
 
@@ -91,7 +91,7 @@ For professional inquiries or collaboration opportunities:
 
 ---
 
-[^1]: This project is based on the book *[Patterns for Beginning Programmers](https://pressbooks.pub/patternsforbeginningprogrammers/)* by David Bernstein, published under a Creative Commons Attribution 4.0 International license, except where otherwise noted.
+[^1]: This project is based on the book *[Patterns for Beginning Programmers](https://pressbooks.lib.jmu.edu/programmingpatterns/)* by David Bernstein, published under a Creative Commons Attribution 4.0 International license, except where otherwise noted.
 
-[^2]: Summary of Bernstein, David. *Patterns for Beginning Programmers: With Examples in Java*, James Madison University Pressbooks, Harrisonburg, VA, 2022. Page 10.
+[^2]: Summary of Bernstein, David. *[Patterns for Beginning Programmers](https://pressbooks.lib.jmu.edu/programmingpatterns/): With Examples in Java*, James Madison University Pressbooks, Harrisonburg, VA, 2022. Page 10.
 
