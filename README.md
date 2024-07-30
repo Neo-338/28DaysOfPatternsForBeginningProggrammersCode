@@ -45,6 +45,7 @@ As a self-taught backend programming learner with Java, this project integrates 
 | 28 | [Chapter 28: Exercises](src/main/java/Chapter028/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
 
 </details>
+
 #### Technologies and tools used:
 
 ![Java Version](https://img.shields.io/badge/Java-21-orange) ![JUnit](https://img.shields.io/badge/testing-JUnit5-green) ![Spring Boot](https://img.shields.io/badge/framework-Spring%20Boot-brightgreen) ![MySQL](https://img.shields.io/badge/database-MySQL-blue) ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue) ![Maven](https://img.shields.io/badge/build-Maven-red) ![Git](https://img.shields.io/badge/version%20control-Git-orange) ![GitHub](https://img.shields.io/badge/repo-GitHub-black)
