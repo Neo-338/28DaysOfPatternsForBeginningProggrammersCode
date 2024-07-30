@@ -13,36 +13,36 @@ As a self-taught backend programming learner with Java, this project integrates 
 <details>
 <summary><b>Topics Covered and Progress Tracking</b></summary>
 
-| Chapter | Topic | Progress |
-| ---- | ------------------------------------------------------------ | -------- |
-| 1 | [Chapter 1: Exercises](src/main/java/Chapter001/README.md) | [🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜] 10% |
-| 2 | [Chapter 2: Exercises](src/main/java/Chapter002/README.md) | [🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜] 80% |
-| 3 | [Chapter 3: Exercises](src/main/java/Chapter003/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 4 | [Chapter 4: Exercises](src/main/java/Chapter004/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 5 | [Chapter 5: Exercises](src/main/java/Chapter005/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 6 | [Chapter 6: Exercises](src/main/java/Chapter006/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 7 | [Chapter 7: Exercises](src/main/java/Chapter007/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 8 | [Chapter 8: Exercises](src/main/java/Chapter008/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 9 | [Chapter 9: Exercises](src/main/java/Chapter009/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 10 | [Chapter 10: Exercises](src/main/java/Chapter010/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 11 | [Chapter 11: Exercises](src/main/java/Chapter011/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 12 | [Chapter 12: Exercises](src/main/java/Chapter012/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 13 | [Chapter 13: Exercises](src/main/java/Chapter013/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 14 | [Chapter 14: Exercises](src/main/java/Chapter014/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 15 | [Chapter 15: Exercises](src/main/java/Chapter015/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 16 | [Chapter 16: Exercises](src/main/java/Chapter016/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 17 | [Chapter 17: Exercises](src/main/java/Chapter017/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 18 | [Chapter 18: Exercises](src/main/java/Chapter018/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 19 | [Chapter 19: Exercises](src/main/java/Chapter019/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 20 | [Chapter 20: Exercises](src/main/java/Chapter020/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 21 | [Chapter 21: Exercises](src/main/java/Chapter021/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 22 | [Chapter 22: Exercises](src/main/java/Chapter022/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 23 | [Chapter 23: Exercises](src/main/java/Chapter023/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 24 | [Chapter 24: Exercises](src/main/java/Chapter024/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 25 | [Chapter 25: Exercises](src/main/java/Chapter025/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 26 | [Chapter 26: Exercises](src/main/java/Chapter026/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 27 | [Chapter 27: Exercises](src/main/java/Chapter027/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 28 | [Chapter 28: Exercises](src/main/java/Chapter028/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| Chapter | Topic                                                              | Progress |
+| ---- |--------------------------------------------------------------------| -------- |
+| 1 | [Chapter 1: Updating](src/main/java/Chapter001/README.md) | [🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜] 10% |
+| 2 | [Chapter 2: Exercises](src/main/java/Chapter002/README.md)         | [🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜] 80% |
+| 3 | [Chapter 3: Exercises](src/main/java/Chapter003/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 4 | [Chapter 4: Exercises](src/main/java/Chapter004/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 5 | [Chapter 5: Exercises](src/main/java/Chapter005/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 6 | [Chapter 6: Exercises](src/main/java/Chapter006/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 7 | [Chapter 7: Exercises](src/main/java/Chapter007/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 8 | [Chapter 8: Exercises](src/main/java/Chapter008/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 9 | [Chapter 9: Exercises](src/main/java/Chapter009/README.md)         | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 10 | [Chapter 10: Exercises](src/main/java/Chapter010/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 11 | [Chapter 11: Exercises](src/main/java/Chapter011/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 12 | [Chapter 12: Exercises](src/main/java/Chapter012/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 13 | [Chapter 13: Exercises](src/main/java/Chapter013/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 14 | [Chapter 14: Exercises](src/main/java/Chapter014/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 15 | [Chapter 15: Exercises](src/main/java/Chapter015/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 16 | [Chapter 16: Exercises](src/main/java/Chapter016/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 17 | [Chapter 17: Exercises](src/main/java/Chapter017/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 18 | [Chapter 18: Exercises](src/main/java/Chapter018/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 19 | [Chapter 19: Exercises](src/main/java/Chapter019/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 20 | [Chapter 20: Exercises](src/main/java/Chapter020/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 21 | [Chapter 21: Exercises](src/main/java/Chapter021/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 22 | [Chapter 22: Exercises](src/main/java/Chapter022/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 23 | [Chapter 23: Exercises](src/main/java/Chapter023/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 24 | [Chapter 24: Exercises](src/main/java/Chapter024/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 25 | [Chapter 25: Exercises](src/main/java/Chapter025/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 26 | [Chapter 26: Exercises](src/main/java/Chapter026/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 27 | [Chapter 27: Exercises](src/main/java/Chapter027/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 28 | [Chapter 28: Exercises](src/main/java/Chapter028/README.md)        | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
 
 </details>
 
