@@ -15,8 +15,8 @@ As a self-taught backend programming learner with Java, this project integrates 
 
 | Chapter | Topic | Progress |
 | ---- | ------------------------------------------------------------ | -------- |
-| 1 | [Chapter 1: Exercises](src/main/java/Chapter001/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
-| 2 | [Chapter 2: Exercises](src/main/java/Chapter002/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
+| 1 | [Chapter 1: Exercises](src/main/java/Chapter001/README.md) | [🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜] 10% |
+| 2 | [Chapter 2: Exercises](src/main/java/Chapter002/README.md) | [🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜] 80% |
 | 3 | [Chapter 3: Exercises](src/main/java/Chapter003/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
 | 4 | [Chapter 4: Exercises](src/main/java/Chapter004/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
 | 5 | [Chapter 5: Exercises](src/main/java/Chapter005/README.md) | [⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜] 0% |
