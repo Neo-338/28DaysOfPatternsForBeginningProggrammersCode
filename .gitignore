@@ -1,0 +1,55 @@
+# Ignorar todo por defecto
+*
+
+# Permitir archivos y directorios específicos
+!.gitignore
+!pom.xml
+!README.md
+
+# Permitir directorios específicos de código fuente y pruebas
+!src/
+!src/main/
+!src/main/java/
+!src/main/java/**
+!src/test/
+!src/test/java/
+!src/test/java/**
+
+# Ignorar archivos y directorios específicos
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
